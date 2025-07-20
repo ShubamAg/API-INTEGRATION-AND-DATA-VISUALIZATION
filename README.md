@@ -22,3 +22,7 @@ How to preprocess and clean the data for better insights.
 How to build effective visual dashboards using Matplotlib/Seaborn.
 
 This project is a great example of integrating real-world data with visual storytelling, and it's easily extensible for any API or dataset.
+
+##Output
+
+<img width="1743" height="830" alt="Image" src="https://github.com/user-attachments/assets/55eb99c0-1905-4bcc-b6d0-8999547849fa" />
